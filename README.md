@@ -47,3 +47,4 @@ To stop the notebook server instance:
 1. http://jupyter-notebook.readthedocs.io/en/stable/index.html
 2. https://docs.docker.com/engine/reference/builder/
 3. https://docs.docker.com/engine/reference/commandline/docker/
+4. https://github.com/dunovank/jupyter-themes
